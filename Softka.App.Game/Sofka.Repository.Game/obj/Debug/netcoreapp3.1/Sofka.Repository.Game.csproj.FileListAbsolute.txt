@@ -1,0 +1,12 @@
+C:\Users\rober\source\repos\Softka.App.Game\Sofka.Repository.Game\bin\Debug\netcoreapp3.1\Sofka.Repository.Game.deps.json
+C:\Users\rober\source\repos\Softka.App.Game\Sofka.Repository.Game\bin\Debug\netcoreapp3.1\Sofka.Repository.Game.runtimeconfig.json
+C:\Users\rober\source\repos\Softka.App.Game\Sofka.Repository.Game\bin\Debug\netcoreapp3.1\Sofka.Repository.Game.runtimeconfig.dev.json
+C:\Users\rober\source\repos\Softka.App.Game\Sofka.Repository.Game\bin\Debug\netcoreapp3.1\Sofka.Repository.Game.dll
+C:\Users\rober\source\repos\Softka.App.Game\Sofka.Repository.Game\bin\Debug\netcoreapp3.1\Sofka.Repository.Game.pdb
+C:\Users\rober\source\repos\Softka.App.Game\Sofka.Repository.Game\obj\Debug\netcoreapp3.1\Sofka.Repository.Game.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Softka.App.Game\Sofka.Repository.Game\obj\Debug\netcoreapp3.1\Sofka.Repository.Game.AssemblyInfo.cs
+C:\Users\rober\source\repos\Softka.App.Game\Sofka.Repository.Game\obj\Debug\netcoreapp3.1\Sofka.Repository.Game.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Softka.App.Game\Sofka.Repository.Game\obj\Debug\netcoreapp3.1\Sofka.Repository.Game.dll
+C:\Users\rober\source\repos\Softka.App.Game\Sofka.Repository.Game\obj\Debug\netcoreapp3.1\Sofka.Repository.Game.pdb
+C:\Users\rober\source\repos\Softka.App.Game\Sofka.Repository.Game\obj\Debug\netcoreapp3.1\Sofka.Repository.Game.genruntimeconfig.cache
+C:\Users\rober\source\repos\Softka.App.Game\Sofka.Repository.Game\obj\Debug\netcoreapp3.1\Sofka.Repository.Game.csprojAssemblyReference.cache
